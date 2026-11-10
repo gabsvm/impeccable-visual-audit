@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impeccable Visual Audit (Before/After)"
+  short_description: "Audita el placing y jerarquía visual con Impeccable generando una lámina comparativa Antes/Después antes de tocar código"
+  default_prompt: "Usa $impeccable-visual-audit para auditar el placing y la jerarquía espacial de esta pantalla conservando su identidad visual, y entrégame la comparativa Antes/Después antes de aplicar ningún fix."
